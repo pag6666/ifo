@@ -1,0 +1,14 @@
+D:\pythone\android_project\Android_studios\virtual\Server_V_2\Server_V_2\bin\Debug\net7.0\Server_V_2.exe
+D:\pythone\android_project\Android_studios\virtual\Server_V_2\Server_V_2\bin\Debug\net7.0\Server_V_2.deps.json
+D:\pythone\android_project\Android_studios\virtual\Server_V_2\Server_V_2\bin\Debug\net7.0\Server_V_2.runtimeconfig.json
+D:\pythone\android_project\Android_studios\virtual\Server_V_2\Server_V_2\bin\Debug\net7.0\Server_V_2.dll
+D:\pythone\android_project\Android_studios\virtual\Server_V_2\Server_V_2\bin\Debug\net7.0\Server_V_2.pdb
+D:\pythone\android_project\Android_studios\virtual\Server_V_2\Server_V_2\obj\Debug\net7.0\Server_V_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\pythone\android_project\Android_studios\virtual\Server_V_2\Server_V_2\obj\Debug\net7.0\Server_V_2.AssemblyInfoInputs.cache
+D:\pythone\android_project\Android_studios\virtual\Server_V_2\Server_V_2\obj\Debug\net7.0\Server_V_2.AssemblyInfo.cs
+D:\pythone\android_project\Android_studios\virtual\Server_V_2\Server_V_2\obj\Debug\net7.0\Server_V_2.csproj.CoreCompileInputs.cache
+D:\pythone\android_project\Android_studios\virtual\Server_V_2\Server_V_2\obj\Debug\net7.0\Server_V_2.dll
+D:\pythone\android_project\Android_studios\virtual\Server_V_2\Server_V_2\obj\Debug\net7.0\refint\Server_V_2.dll
+D:\pythone\android_project\Android_studios\virtual\Server_V_2\Server_V_2\obj\Debug\net7.0\Server_V_2.pdb
+D:\pythone\android_project\Android_studios\virtual\Server_V_2\Server_V_2\obj\Debug\net7.0\Server_V_2.genruntimeconfig.cache
+D:\pythone\android_project\Android_studios\virtual\Server_V_2\Server_V_2\obj\Debug\net7.0\ref\Server_V_2.dll
