@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net5.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net5.0": []
   },
   "packageFolders": {
     "C:\\Users\\Pargev\\.nuget\\packages\\": {}
@@ -13,26 +13,26 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\pythone\\android_project\\Android_studios\\virtual\\Client_V_2\\Client_V_2\\Client_V_2.csproj",
+      "projectUniqueName": "C:\\Users\\Pargev\\Desktop\\file\\Client_V_2\\Client_V_2\\Client_V_2.csproj",
       "projectName": "Client_V_2",
-      "projectPath": "D:\\pythone\\android_project\\Android_studios\\virtual\\Client_V_2\\Client_V_2\\Client_V_2.csproj",
+      "projectPath": "C:\\Users\\Pargev\\Desktop\\file\\Client_V_2\\Client_V_2\\Client_V_2.csproj",
       "packagesPath": "C:\\Users\\Pargev\\.nuget\\packages\\",
-      "outputPath": "D:\\pythone\\android_project\\Android_studios\\virtual\\Client_V_2\\Client_V_2\\obj\\",
+      "outputPath": "C:\\Users\\Pargev\\Desktop\\file\\Client_V_2\\Client_V_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pargev\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net5.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "projectReferences": {}
         }
       },
@@ -43,8 +43,8 @@
       }
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
+      "net5.0": {
+        "targetAlias": "net5.0",
         "imports": [
           "net461",
           "net462",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
