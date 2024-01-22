@@ -1,0 +1,15 @@
+C:\Users\Pargev\Desktop\SC2\S2\S2\bin\Debug\net5.0\S2.exe
+C:\Users\Pargev\Desktop\SC2\S2\S2\bin\Debug\net5.0\S2.deps.json
+C:\Users\Pargev\Desktop\SC2\S2\S2\bin\Debug\net5.0\S2.runtimeconfig.json
+C:\Users\Pargev\Desktop\SC2\S2\S2\bin\Debug\net5.0\S2.runtimeconfig.dev.json
+C:\Users\Pargev\Desktop\SC2\S2\S2\bin\Debug\net5.0\S2.dll
+C:\Users\Pargev\Desktop\SC2\S2\S2\bin\Debug\net5.0\S2.pdb
+C:\Users\Pargev\Desktop\SC2\S2\S2\obj\Debug\net5.0\S2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pargev\Desktop\SC2\S2\S2\obj\Debug\net5.0\S2.AssemblyInfoInputs.cache
+C:\Users\Pargev\Desktop\SC2\S2\S2\obj\Debug\net5.0\S2.AssemblyInfo.cs
+C:\Users\Pargev\Desktop\SC2\S2\S2\obj\Debug\net5.0\S2.csproj.CoreCompileInputs.cache
+C:\Users\Pargev\Desktop\SC2\S2\S2\obj\Debug\net5.0\S2.dll
+C:\Users\Pargev\Desktop\SC2\S2\S2\obj\Debug\net5.0\refint\S2.dll
+C:\Users\Pargev\Desktop\SC2\S2\S2\obj\Debug\net5.0\S2.pdb
+C:\Users\Pargev\Desktop\SC2\S2\S2\obj\Debug\net5.0\S2.genruntimeconfig.cache
+C:\Users\Pargev\Desktop\SC2\S2\S2\obj\Debug\net5.0\ref\S2.dll

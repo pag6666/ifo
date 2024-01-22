@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Admin_C2/1.0.0": {
+        "runtime": {
+          "Admin_C2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Admin_C2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
